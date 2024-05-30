@@ -45,7 +45,7 @@ body {
 
 .content {
    width: 80%;
-   float: left;
+   float: right;
    padding: 20%;
    box-sizing: border-box; 
 }
